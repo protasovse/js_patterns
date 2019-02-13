@@ -1,0 +1,20 @@
+{
+  "name": "js-patterns",
+  "version": "0.0.0",
+  "description": "Изучение паттернов, используя Node и Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "design",
+    "patterns"
+  ],
+  "author": "Protasov Sergey",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.1.13"
+  }
+}
